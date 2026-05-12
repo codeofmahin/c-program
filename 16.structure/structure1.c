@@ -52,8 +52,8 @@ int main(int argc, char const *argv[])
 	printf("age:%d\n",person4.age );
 	printf("salary:%.3f\n",person4.salary );
 
-
-    getch();
+	return 0;
+    // getch();
 
 
 }
